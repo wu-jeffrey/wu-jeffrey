@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jeff
+# 👋 Hey, my name is Jeff 
 
 I'm an Engineering student at the University of Waterloo and a Developer Intern at Shopify working on Checkouts. 
 
