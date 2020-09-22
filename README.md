@@ -15,3 +15,5 @@ I'm an Engineering student at the University of Waterloo and a Developer Intern 
 🚧  Carpentry
 
 🏐  Volleyball
+
+🥋  Martial Arts
