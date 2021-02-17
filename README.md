@@ -14,6 +14,14 @@ We plan for it to be a sort of "buzzfeed quiz" game!
 
 The main repo is is private, but check out some of our progress, forked [here](https://github.com/wu-jeffrey/WouldYouRather)!
 
+### 🍔 Nutrition Tracker 2
+
+React and NodeJS application
+
+I have a passion for fitness and nutrition, having lost over 80 lbs. After tracking my calories using a plethora of popular apps, I've become frustrated with slow, clunky UIs, or annoying upsells for key features. I built this simple nutrition tracker as a coding challenge and I use it daily to track my macros. It's still got a ways to go before launching it but it's coming along!
+
+Check it out [here](https://github.com/wu-jeffrey/nutrition-tracker-2)!
+
 ## Interests
 👟  Fitness / Weightlifting
 
